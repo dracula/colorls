@@ -1,20 +1,20 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [colorls](https://github.com/athityakumar/colorls)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [colorls](https://github.com/athityakumar/colorls).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+All instructions can be found at [draculatheme.com/colorls](https://draculatheme.com/colorls).
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 
-[![Harrison Heck](https://avatars0.githubusercontent.com/u/1037526?v=3&s=70)](https://github.com/nesl247) | [![Zeno Rocha](https://avatars2.githubusercontent.com/u/398893?v=3&s=70)](https://github.com/zenorocha)
+[![George Pickering](https://avatars1.githubusercontent.com/u/9803299?v=4)](https://github.com/bigpick)
 --- | ---
-[Harrison Heck](https://github.com/nesl247) | [Zeno Rocha](https://github.com/zenorocha)
+[George Pickering](https://github.com/bigpick)
 
 ## License
 
