@@ -1,0 +1,42 @@
+# Dracula themed dark color settings for colorls
+#
+# Main Colors
+unrecognized_file: '#44475a'
+recognized_file:   '#F8F8F2'
+dir:               '#bd93f9'
+
+# Link
+dead_link: '#ff5555'
+link:      '#8be9fd'
+
+# Access Modes
+write:     '#ff79c6'
+read:      '#bd93f9'
+exec:      '#8be9fd'
+no_access: '#ff5555'
+
+# Age
+hour_old:    '#6272a4'
+day_old:     '#44475a'
+no_modifier: '#f8f8f2'
+
+# File Size
+file_large:  '#ff5555'
+file_medium: '#ffb86c'
+file_small:  '#f1fa8c'
+
+# Random
+report: '#f1fa8c'
+user:   '#8be9fd'
+tree:   '#44475a'
+empty:  '#6272a4'
+error:  '#ff5555'
+normal: '#f8f8f2'
+
+# Git
+addition:     '#8be9fd'
+modification: '#f1fa8c'
+deletion:     '#ff5555'
+untracked:    '#ffb86c'
+unchanged:    '#50fa7b'
+
