@@ -1,17 +1,31 @@
-### [X](http://link-to-x.com)
+### [colorls](https://github.com/athityakumar/colorls)
 
 #### Install using Git
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
-    $ git clone https://github.com/dracula/template.git
+    $ git clone git@github.com:bigpick/colorls.git
 
 #### Install manually
 
-Download using the [GitHub .zip download](https://github.com/dracula/template/archive/master.zip) option and unzip them.
+Download using the [GitHub .zip download](https://github.com/bigpick/colorls/archive/master.zip) option and unzip them.
 
 #### Activating theme
 
-1. Do this
-2. Then that
-3. Boom! It's working
+1. First you need to have installed [colorls](https://github.com/athityakumar/colorls#installation).
+2. (Optionally) Make a backup of your current dark colorscheme:
+
+    ```bash
+    mv ~/.config/colorls/dark_colors.yaml ~/.config/colorls/dark_colors.yaml.backup
+    ```
+3. Copy the [`dark_colors.yaml`](./dark_colors.yaml) file to the dark color scheme location for colorls:
+
+    ```bash
+    cp dark_colors.yaml ~/.config/colorls/dark_colors.yaml
+    ```
+4. Use the `--dark` option when utilizing `colorls`:
+
+    ```bash
+    colorls --dark
+    # Optionally: alias ls="colorls --dark"
+    ```
