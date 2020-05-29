@@ -29,3 +29,10 @@ Download using the [GitHub .zip download](https://github.com/bigpick/colorls/arc
     colorls --dark
     # Optionally: alias ls="colorls --dark"
     ```
+
+If after installing and copying the config file you see issues with `colorls` complaining about missing color names, you may need to use the pre-release gem until the hex color support is released as an official bundle:
+
+    ```bash
+    gem update --pre colorls
+    ```
+
