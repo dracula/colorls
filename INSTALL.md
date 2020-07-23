@@ -12,7 +12,9 @@ Download using the [GitHub .zip download](https://github.com/bigpick/colorls/arc
 
 #### Activating theme
 
-1. First you need to have installed [colorls](https://github.com/athityakumar/colorls#installation).
+1. First you need to have installed [colorls](https://github.com/athityakumar/colorls#installation). Ensure you are running the latest release of colorls, as support for hex string values were added as of the [1.4.2 release](https://github.com/athityakumar/colorls/releases/tag/v1.4.2)
+
+
 2. (Optionally) Make a backup of your current dark colorscheme:
 
     ```bash
@@ -29,10 +31,3 @@ Download using the [GitHub .zip download](https://github.com/bigpick/colorls/arc
     colorls --dark
     # Optionally: alias ls="colorls --dark"
     ```
-
-If after installing and copying the config file you see issues with `colorls` complaining about missing color names, you may need to use the pre-release gem until the hex color support is released as an official bundle:
-
-    ```bash
-    gem update --pre colorls
-    ```
-
