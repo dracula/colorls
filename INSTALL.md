@@ -29,5 +29,6 @@ Download using the [GitHub .zip download](https://github.com/bigpick/colorls/arc
 
     ```bash
     colorls --dark
-    # Optionally: alias ls="colorls --dark"
+    # Additionally: alias ls="colorls --dark"
+    # or, perhaps more sanely: alias cls="colorls --dark"
     ```

@@ -2,7 +2,9 @@
 
 > A dark theme for [colorls](https://github.com/athityakumar/colorls).
 
-![Screenshot](./screenshot.png)
+![dracula-colorls-example-screenshot](./sample/dracula_colorls_demo.png)
+
+(note: `ls` has been aliased to `colorls --sd --dark` above)
 
 ## Install
 
@@ -12,28 +14,14 @@ All instructions can be found at [draculatheme.com/colorls](https://draculatheme
 
 ## Samples
 
-Some examples of a select set of  `colorls` options (see the colorls repo for full options):
+Some examples of a select set of  `colorls` options not(see the colorls repo for full optional flags).
 
-### Git Status (modified and untracked)
-![git-status-screenshot](./sample/ls_modified_git.png)
+### Tree
+![tree-screenshot](./sample/dracula_colorls_tree.png)
 
-### Git status (untracked)
-![git-untracked-screenshot](./sample/ls_untracked_git.png)
+### Git Status (addition, modified, deleted, unchanged, untracked)
+![git-demo-screenshot](./sample/dracula_colorls_git.png)
 
-### File view
-![plain-file-screenshot](./sample/ls_plain_files.png)
-
-### Empty Directory
-![empty-dir-screenshot](./sample/ls_empty_dir.png)
-
-### Tree view (depth 1)
-![tree-cmd-screenshot](./sample/ls_tree.png)
-
-### File Size
-![file-size-screenshot](./sample/ls_file_size.png)
-
-### Verbose
-![verbose-ls-screenshot](./sample/ls_verbose.png)
 
 ## Team
 
