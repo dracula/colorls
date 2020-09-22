@@ -4,11 +4,11 @@
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
-    $ git clone git@github.com:bigpick/colorls.git
+    $ git clone git@github.com:dracula/colorls.git
 
 #### Install manually
 
-Download using the [GitHub .zip download](https://github.com/bigpick/colorls/archive/master.zip) option and unzip them.
+Download using the [GitHub .zip download](https://github.com/dracula/colorls/archive/master.zip) option and unzip them.
 
 #### Activating theme
 

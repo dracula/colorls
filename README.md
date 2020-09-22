@@ -2,7 +2,7 @@
 
 > A dark theme for [colorls](https://github.com/athityakumar/colorls).
 
-![dracula-colorls-example-screenshot](./sample/dracula_colorls_demo.png)
+![Screenshot](./screenshot.png)
 
 (note: `ls` has been aliased to `colorls --sd --dark` above)
 
@@ -22,14 +22,13 @@ Some examples of a select set of  `colorls` options not(see the colorls repo for
 ### Git Status (addition, modified, deleted, unchanged, untracked)
 ![git-demo-screenshot](./sample/dracula_colorls_git.png)
 
-
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 
-| [![George Pickering](https://avatars1.githubusercontent.com/u/9803299?v=4)](https://github.com/bigpick) |
+| [![George Pickering](https://avatars1.githubusercontent.com/u/9803299?v=4&s=70)](https://github.com/dracula) |
 | --- |
-| [George Pickering](https://github.com/bigpick) |
+| [George Pickering](https://github.com/dracula) |
 
 ## License
 
