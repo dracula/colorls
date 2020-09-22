@@ -20,7 +20,7 @@ Download using the [GitHub .zip download](https://github.com/dracula/colorls/arc
     ```bash
     mv ~/.config/colorls/dark_colors.yaml ~/.config/colorls/dark_colors.yaml.backup
     ```
-3. Copy the [`dark_colors.yaml`](./dark_colors.yaml) file to the dark color scheme location for colorls:
+3. Copy the [`dark_colors.yaml`](https://github.com/dracula/colorls/blob/master/dark_colors.yaml) file to the dark color scheme location for colorls:
 
     ```bash
     cp dark_colors.yaml ~/.config/colorls/dark_colors.yaml
