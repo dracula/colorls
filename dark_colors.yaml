@@ -21,9 +21,9 @@ exec:      '#8be9fd'         # Cyan
 no_access: '#ff5555'         # Red
 
 # Age
-hour_old:    '#6272a4'       # Comment
-day_old:     '#44475a'       # Current Line
-no_modifier: '#f8f8f2'       # Foreground
+hour_old:    '#95a5d7'       # Comment - 20% lighter
+day_old:     '#6272a4'       # Comment
+no_modifier: '#44475a'       # Current Line
 
 # File Size
 file_large:  '#ff5555'       # Red
