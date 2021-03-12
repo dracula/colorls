@@ -3,6 +3,7 @@
 # Main Colors
 unrecognized_file: '#ffb86c' # Orange
 recognized_file:   '#f8f8f2' # Foreground
+executable_file:   '#50fa7b'         # Green
 dir:               '#bd93f9' # Purple
 
 # Link
