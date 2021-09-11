@@ -4,7 +4,7 @@
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
-    $ git clone git@github.com:dracula/colorls.git
+    git clone git@github.com:dracula/colorls.git
 
 #### Install manually
 
